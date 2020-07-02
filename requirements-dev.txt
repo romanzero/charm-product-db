@@ -1,0 +1,6 @@
+bumpversion
+ciso8601
+coverage
+flake8
+moto~=1.3
+pytest
